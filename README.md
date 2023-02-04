@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://dementevaleksandr.ru/" target="_blank">Aleksandr</a> </h1>
-<h3 align="center">Python-developer</h3>
+<h1 align="left">Hi there 👋, I'm <a href="https://dementevaleksandr.ru/" target="_blank">Aleksandr</a>. Python-developer. </h1>
+<h3 align="left">Languages and tools: python / JSON  / YAML / Django / React / Telegram / API / Docker / Nginx / PostgreSQL / Gunicorn / JWT / Postman.</h3>
 
 
 <!--
